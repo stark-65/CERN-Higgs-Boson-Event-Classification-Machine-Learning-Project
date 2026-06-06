@@ -1,4 +1,3 @@
-quirements · TXT
 streamlit
 pandas
 numpy
@@ -10,4 +9,3 @@ matplotlib
 seaborn
 joblib
 plotly
- 
